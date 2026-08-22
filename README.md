@@ -31,25 +31,18 @@
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run
 
-1. Open your terminal in this directory:
+1. **Install dependencies**:
    ```bash
-   cd e:\project2.0
+   npm install
    ```
 
-2. Start the local Vite development server:
+2. **Start the local server**:
    ```bash
    npm run dev
    ```
-   Open `http://localhost:3000` in your web browser!
 
-3. To build for production:
-   ```bash
-   npm run build
-   ```
+3. **Open in browser**:
+   👉 **http://localhost:3000**
 
-4. To preview the production build:
-   ```bash
-   npm run preview
-   ```
